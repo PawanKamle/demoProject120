@@ -27,7 +27,7 @@ public class TestClass1 {
 	public void test1() {
 
 		System.out.println("test 1 title = " + driver.getTitle());
-		System.out.println("changing from master branch);
+		System.out.println("changing from master branch");
                 
 	}
 
